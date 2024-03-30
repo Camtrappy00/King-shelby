@@ -82,8 +82,8 @@ const antibot = process.env.ANTIBOT || 'FALSE';
     const mime = (quoted.msg || quoted).mimetype || "";
             const qmsg = (quoted.msg || quoted);
     const author = process.env.STICKER_AUTHOR ||'𝐁𝐋𝐔𝐄-𝐁𝐄𝐄𝐓𝐋𝐄 ';
-    const packname = process.env.STICKER_PACKNAME || '𝘿𝙖𝙢𝙤𝙣';
-const dev = process.env.DEV || '254790593618'
+    const packname = process.env.STICKER_PACKNAME || '𝙏𝙧𝙖𝙥𝙥𝙮';
+const dev = process.env.DEV || '254703251900'
 
 const menu = process.env.MENU_TYPE || 'VIDEO';
  const DevDreaded = dev.split(",");
