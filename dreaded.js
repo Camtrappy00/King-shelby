@@ -718,7 +718,7 @@ const rel = await quote(xf, pushname, pppuser)
                 
                 client.sendImageAsSticker(m.chat, rel.result, m, {
                     packname: pushname,
-                    author: `𝑲𝒊𝒏𝒈 𝑮`
+                    author: `𝑲𝒊𝒏𝒈 𝑺𝒉𝒆𝒍𝒃𝒚`
                 })
 
 } catch (errr) { 
@@ -1189,7 +1189,7 @@ await m.reply('𝐑𝐞𝐦𝐨𝐯𝐞𝐝 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮
  case 'sc': case 'script': case 'repo':
 
  client.sendMessage(m.chat, { image: { url: `https://telegra.ph/file/9830633c0e0e2f829665d.jpg` }, caption: 
-`👋🏻 Hi *${pushname}*,You can deploy 𝐁𝐋𝐔𝐄 𝐁𝐄𝐄𝐓𝐋𝐄 using the GitHub link below🌌\n\nFork and give us a star✨.\n\n https://github.com/Camtrappy00/bluebeetleV_2\n\nEnjoy and have fun with the bot🔥...\n\nUse the link below to pair 𝐁𝐋𝐔𝐄 𝐁𝐄𝐄𝐓𝐋𝐄  without scanning any qr code\n\n [https://replit.com/@Madmkisii/Pairing-blue-beetle-1]\n\nMade on Earth by 𝙏𝙧𝙖𝙥𝙥𝙮` });
+`👋🏻 Hi *${pushname}*,You can deploy 𝐁𝐋𝐔𝐄 𝐁𝐄𝐄𝐓𝐋𝐄 using the GitHub link below🌌\n\nFork and give us a star✨.\n\n https://github.com/Camtrappy00/King-shelby\n\nEnjoy and have fun with the bot🔥...\n\nUse the link below to pair 𝐁𝐋𝐔𝐄 𝐁𝐄𝐄𝐓𝐋𝐄  without scanning any qr code\n\n [https://replit.com/@Madmkisii/Pairing-blue-beetle-1]\n\nMade on Earth by 𝙏𝙧𝙖𝙥𝙥𝙮` });
 
    break;
                                                   
