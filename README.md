@@ -13,14 +13,14 @@
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-TRAPPY_CAM-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="'https://wa.me/+254703251900yoh+Trappy⸼ +nishow+venye+nitadeploy+beetle-ai'"><img title="Whatsapp" src="'https://wa.me/254790593618yoh+Damon⸼ +nishow+venye+nitadeploy+beetle'?color=green&style=flat-square"></a>
+<a href="'https://wa.me/+254703251900yoh+Trappy⸼ +nishow+venye+nitadeploy+beetle-ai'"><img title="Whatsapp" src="'https://wa.me/254703251900yoh+Trappy⸼ +nishow+venye+nitadeploy+beetle'?color=green&style=flat-square"></a>
   
-<a href="https://wa.me/254790593618yohyoh+Damon⸼"><img title="Twitter" src="https://x.com/NSirm5?s=09?color=black&style=flat-square"></a>
-<a href="https://github.com/Madmkisii/Blue-Beetle-V2/network/members"><img title="Forks" src="https://img.shields.io/github/for/Madmkisii/Blue-Beetle-V2?color=yellow&style=flat-square"></a>
-<a href="https://github.com/Madmkisii/Blue-Beetle-V2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/drexmose/drex-ai?label=Watchers&color=red&style=flat-square"></a>
-<a href="https://github.com/Madmkisii/Blue-Beetle-V2/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Madmkisii/Blue-Beetle-V2/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/Madmkisii/Blue-Beetle-V2/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
+<a href="https://wa.me/254703251900yohyoh+Trappy⸼"><img title="Twitter" src="https://x.com/NSirm5?s=09?color=black&style=flat-square"></a>
+<a href="https://github.com/Camtrappy00/bluebeetleV_2/network/members"><img title="Forks" src="https://img.shields.io/https://github.com/Camtrappy00/bluebeetleV_2?color=yellow&style=flat-square"></a>
+<a href="https://github.com/Camtrappy00/bluebeetleV_2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/drexmose/drex-ai?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/Camtrappy00/bluebeetleV_2/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Camtrappy00/bluebeetleV_2/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/Camtrappy00/bluebeetleV_2/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
 </p>
  
  𝐃𝐄𝐏𝐋𝐎𝐘 𝐓𝐎 𝐇𝐄𝐑𝐎𝐊𝐔 𝐕𝐈𝐀 𝐓𝐇𝐄 𝐋𝐈𝐍𝐊 𝐁𝐄𝐋𝐎𝐖 + 𝐘𝐎𝐔𝐑 𝐑𝐄𝐏𝐎 𝐋𝐈𝐍𝐊 𝐀𝐅𝐓𝐄𝐑 𝐘𝐎𝐔 𝐇𝐀𝐕𝐄 𝐏𝐔𝐓 𝐘𝐎𝐔𝐑 𝐅𝐈𝐋𝐄 𝐓𝐎 "𝘿𝙍𝙀𝘼𝘿𝙀𝘼𝘿1" 𝐅𝐎𝐋𝐃𝐄𝐑.
