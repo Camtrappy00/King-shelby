@@ -7,7 +7,7 @@
 <img src="https://telegra.ph/file/dd2557ac4a85507c077d7.jpg" width="650" height="500"/>
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=DAMON+WHATSAPP+BOT" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=TRAPPY+WHATSAPP+BOT" alt="">
 </p>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-TRAPPY_CAM-red.svg?style=for-the-badge&logo=github"></a>
@@ -16,11 +16,11 @@
 <a href="'https://wa.me/+254703251900yoh+Trappy⸼ +nishow+venye+nitadeploy+beetle-ai'"><img title="Whatsapp" src="'https://wa.me/254703251900yoh+Trappy⸼ +nishow+venye+nitadeploy+beetle'?color=green&style=flat-square"></a>
   
 <a href="https://wa.me/254703251900yohyoh+Trappy⸼"><img title="Twitter" src="https://x.com/NSirm5?s=09?color=black&style=flat-square"></a>
-<a href="https://github.com/Camtrappy00/bluebeetleV_2/network/members"><img title="Forks" src="https://img.shields.io/https://github.com/Camtrappy00/bluebeetleV_2?color=yellow&style=flat-square"></a>
-<a href="https://github.com/Camtrappy00/bluebeetleV_2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/drexmose/drex-ai?label=Watchers&color=red&style=flat-square"></a>
-<a href="https://github.com/Camtrappy00/bluebeetleV_2/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Camtrappy00/bluebeetleV_2/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/Camtrappy00/bluebeetleV_2/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Camtrappy00/King-shelby/network/members"><img title="Forks" src="https://img.shields.io/https://github.com/Camtrappy00/King-shelby?color=yellow&style=flat-square"></a>
+<a href="https://github.com/Camtrappy00/King-shelby/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/drexmose/drex-ai?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/Camtrappy00/King-shelby/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Camtrappy00/King-shelby/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/Camtrappy00/King-shelby/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
 </p>
  
  𝐃𝐄𝐏𝐋𝐎𝐘 𝐓𝐎 𝐇𝐄𝐑𝐎𝐊𝐔 𝐕𝐈𝐀 𝐓𝐇𝐄 𝐋𝐈𝐍𝐊 𝐁𝐄𝐋𝐎𝐖 + 𝐘𝐎𝐔𝐑 𝐑𝐄𝐏𝐎 𝐋𝐈𝐍𝐊 𝐀𝐅𝐓𝐄𝐑 𝐘𝐎𝐔 𝐇𝐀𝐕𝐄 𝐏𝐔𝐓 𝐘𝐎𝐔𝐑 𝐅𝐈𝐋𝐄 𝐓𝐎 "𝘿𝙍𝙀𝘼𝘿𝙀𝘼𝘿1" 𝐅𝐎𝐋𝐃𝐄𝐑.
@@ -34,7 +34,7 @@ DEPLOY ON HEROKU<br>
   <br>
   
 
-***Made on Earth by 𝑲𝒊𝒏𝒈 𝑮 ***
+***Made on Earth by 𝑲𝒊𝒏𝒈 𝒔𝒉𝒆𝒍𝒃𝒚 ***
 
 
 ***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/adiwajshing/Baileys)***
@@ -64,7 +64,7 @@ Linking/Pairing:[https://replit.com/@Madmkisii/Pairing-blue-beetle-1]
     
 <h2 align="center">   
 
-- Fork this repo by tapping  [here](https://github.com/Madmkisii/Blue-Beetle-V2/fork)
+- Fork this repo by tapping  [here](https://github.com/Camtrappy00/King-shelby)
 
 
 - Upload the creds.json that you received to the dreaded1 folder.
@@ -88,7 +88,7 @@ Modifying the bot structure is at your own risk. We won't offer technical suppor
 
 ## License
 
-[MIT License](https://github.com/Madmkisii/Black-Blue-Beetle-V2/blob/main/LICENSE)
+[MIT License](https://github.com/Camtrappy00/King-shelby/blob/main/LICENSE)
 
 Copyright (c) 2024   𝐁𝐞𝐞𝐭𝐥𝐞 
 
